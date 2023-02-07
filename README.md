@@ -1,2 +1,1 @@
-# developer-portfolio-2
-this is course reset developer-portfolio assignment
+### Developer Portfolio Website Resources
