@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  margin-top: 10px;
+}
+
+.name {
+  color: black;
+  font-weight: 800;
+  font-size: 45px;
+  line-height: 61px;
+}
+
+.name-special-text {
+  color: #fd6e0a;
+}
+
+nav,
+.nav-text {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.nav-text li {
+  margin-left: 30px;
+  color: #474747;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.hire-text {
+  background-color: #fd6e0a;
+  padding: 15px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+}
